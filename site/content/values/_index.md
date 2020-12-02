@@ -1,5 +1,5 @@
 ---
-title: Values
-image: /img/about-jumbotron.jpg
+title: Posts
 values:
+values: []
 ---
