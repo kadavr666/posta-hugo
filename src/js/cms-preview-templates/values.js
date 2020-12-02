@@ -3,7 +3,7 @@ import { List } from 'immutable';
 
 import Jumbotron from "./components/jumbotron";
 
-const MediaBlock = ({heading, text, imageUrl, reverse}) => {
+const MediaBlock = ({heading, text, imageUrl, imageUrl, reverse}) => {
   const imageContainerClassName = reverse
     ? "ph3-m w-50-m"
     : "ph3-m w-50-m order-last-m";
